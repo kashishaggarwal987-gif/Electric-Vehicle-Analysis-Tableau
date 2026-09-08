@@ -92,15 +92,6 @@ The dashboard helps uncover:
 * Electric range patterns across different vehicles.
 
 ---
-
-## 📸 Dashboard Preview
-
-Add a screenshot of your completed Tableau dashboard here.
-
-```markdown
-![Electric Vehicle Analysis Dashboard](Images/EV_Dashboard.png)
-```
-
 ---
 
 ## 📑 Project Presentation
