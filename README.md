@@ -77,20 +77,6 @@ Evaluates the electric driving range of vehicles to understand differences acros
 | **PowerPoint**         | Presenting project findings                |
 | **GitHub**             | Project documentation & portfolio          |
 
----
-
-## 📂 Repository Structure
-
-```text
-Electric-Vehicle-Analysis-Tableau/
-│
-├── Electric Vehicle Analysis.twb
-├── Electric Vehicle Presentation.pptx
-├── README.md
-│
-└── Images/
-    └── EV_Dashboard.png
-```
 
 ---
 
